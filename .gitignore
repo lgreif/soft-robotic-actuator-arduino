@@ -1,0 +1,13 @@
+__Previews/
+History/
+* Logs*
+Project Outputs *
+*.DSNlck
+Software/build/
+*~$*
+.vscode
+.devcontainer
+build
+ECAD/SoftRobotController-EDM
+sdkconfig.old
+*.old
