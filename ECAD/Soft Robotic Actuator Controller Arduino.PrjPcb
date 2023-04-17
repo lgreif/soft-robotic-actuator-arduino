@@ -135,7 +135,28 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document6]
+DocumentPath=SoftRobotController.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
+DocumentPath=https://d.docs.live.net/f1c4f683a69d903e/Documents/GitHub/soft-robotic-actuator-arduino/ECAD/Project Outputs for Soft Robotic Actuator Controller Arduino/Documentation/BOM/Bill of Materials-Soft Robotic Actuator Controller Arduino.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument2]
 DocumentPath=Project Outputs for Soft Robotic Actuator Controller Arduino\Design Rule Check - ArduinoShield.html
 DItemRevisionGUID=
 
